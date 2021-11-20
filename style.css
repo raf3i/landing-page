@@ -154,3 +154,13 @@ body {
 .sign-up.second {
   border: 2px solid white;
 }
+
+/* FOOTER */
+
+.footer {
+  text-align: center;
+  background-color: #1F2937;
+  color: white;
+  margin: 0;
+  padding: 30px;
+}
