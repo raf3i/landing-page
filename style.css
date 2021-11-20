@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0;
-  background-color: rgba(0, 0, 0, 0.973);
+  background-color: rgb(255, 255, 255);
   font-family: sans-serif;
 }
 
@@ -115,7 +115,7 @@ body {
 /* INSPIRING QUOTE */
 
 .inspiring-quote {
-  background-color: rgba(255, 255, 255, 0.87);
+  background-color: #E5E7EB;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -138,3 +138,19 @@ body {
   font-weight: 700;
 }
 
+/* CALL TO ACTION - SIGN UP */
+
+.call-action {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882F6;
+  color: white;
+  border-radius: 12px;
+  padding: 30px 0;
+  margin: 60px 150px;
+}
+
+.sign-up.second {
+  border: 2px solid white;
+}
